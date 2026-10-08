@@ -44,6 +44,6 @@ Coming soon...
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn]
-- LeetCode: [Your LeetCode]
+- LinkedIn: Coming soon
+- LeetCode: Coming soon
 - Portfolio: Coming soon
