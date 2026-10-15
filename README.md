@@ -31,11 +31,11 @@ I enjoy building projects that combine AI, software development, and interactive
 - Computer Vision
 - Intelligent Game Systems
 
-## 📌 Featured Projects
+## Featured Projects
 
 Coming soon...
 
-## 📊 Coding & Development
+## Coding & Development
 
 -  Practicing DSA on LeetCode
 -  Building AI/ML projects
