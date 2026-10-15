@@ -6,7 +6,7 @@ I'm a Computer Science student specializing in Artificial Intelligence & Machine
 
 I enjoy building projects that combine AI, software development, and interactive experiences.
 
-## 🚀 What I'm Learning
+## What I'm Learning
 
 - Python
 - Artificial Intelligence & Machine Learning
@@ -20,7 +20,7 @@ I enjoy building projects that combine AI, software development, and interactive
 - Godot
 - Blender
 
-## 🛠️ Areas of Interest
+## Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
@@ -37,12 +37,12 @@ Coming soon...
 
 ## 📊 Coding & Development
 
-- 🧠 Practicing DSA on LeetCode
-- 🤖 Building AI/ML projects
-- 🎮 Experimenting with game development
-- 🌐 Building web applications
+-  Practicing DSA on LeetCode
+-  Building AI/ML projects
+-  Experimenting with game development
+-  Building web applications
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - LinkedIn: Coming soon
 - LeetCode: Coming soon
