@@ -1,49 +1,73 @@
-# Hi, I'm AKV 👋
+# AKV
 
-### CSE AI & ML Student | AI/ML | Python | Web Development | Game Development
+**CSE AI & ML Student | Software Development | Game Development | Digital Art**
 
-I'm a Computer Science student specializing in Artificial Intelligence & Machine Learning.
+I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, with interests spanning AI development, software engineering, game development, and digital design.
 
-I enjoy building projects that combine AI, software development, and interactive experiences.
+I enjoy exploring technologies, developing interactive experiences, and building projects that combine programming, creativity, and problem-solving.
 
-## What I'm Learning
+## Technical Skills
 
+### AI & Machine Learning
 - Python
-- Artificial Intelligence & Machine Learning
-- Data Structures & Algorithms
-- NumPy & Pandas
-- Scikit-learn
-- PyTorch
-- HTML, CSS & JavaScript
-- Git & GitHub
+- Artificial Intelligence and Machine Learning fundamentals
+- NumPy, Pandas, Scikit-learn, and PyTorch *(as I learn and work with them)*
+
+### Game Development
 - Unreal Engine
-- Godot
-- Blender
+- Godot Engine
+- Flax Engine
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+
+### Programming & Scripting Languages
+- Python
+- Java
+- C
+- C#
+- GDScript
+- HTML and CSS
+- JavaScript
+
+### Photo Editing
+- Adobe Photoshop
+- Adobe Lightroom Classic
+- Adobe Express
+
+### Digital Illustration & Visual Design
+- Adobe Fresco
+- Adobe Illustrator
+
+### Texture Design
+- Substance 3D Designer
 
 ## Areas of Interest
 
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
+- Artificial Intelligence and Machine Learning
 - AI-powered applications
-- Game Development
-- Web Development
-- Computer Vision
-- Intelligent Game Systems
+- Game AI and intelligent game systems
+- 3D environment design
+- Game development and interactive experiences
+- Web application development
+- Digital illustration and texture creation
 
-## Featured Projects
+## Projects
 
-Coming soon...
+Coming soon
 
-## Coding & Development
+## Current Focus
 
--  Practicing DSA on LeetCode
--  Building AI/ML projects
--  Experimenting with game development
--  Building web applications
+- Strengthening Python and programming fundamentals
+- Learning data structures and algorithms
+- Exploring AI and machine learning workflows
+- Developing practical software and game projects
+- Improving version control and project documentation
 
-##  Connect With Me
+## Connect
 
-- LinkedIn: Coming soon
-- LeetCode: Coming soon
-- Portfolio: Coming soon
+- **LinkedIn:** Coming soon
+- **LeetCode:** Coming soon
+- **Portfolio:** Coming soon
